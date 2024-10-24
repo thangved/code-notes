@@ -38,7 +38,7 @@
     "nedb": "^1.8.0",
     "opencollective-postinstall": "^2.0.3",
     "source-sans-pro": "^3.6.0",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-clipboard2": "^0.3.1",
     "vue-router": "^3.3.2",
     "vue-select": "^3.10.2",
